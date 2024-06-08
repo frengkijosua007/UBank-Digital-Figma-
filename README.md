@@ -38,5 +38,5 @@ COCOMO II Menggunakan Model Estimasi Biaya Konstruktif II (COCOMO II) untuk esti
 - Model ini membantu mengestimasi biaya, usaha, dan jadwal untuk proyek pengembangan perangkat lunak.
 - Mengevaluasi faktor-faktor seperti ukuran proyek, kemampuan pengembang, keahlian teknis, dan karakteristik proyek untuk memberikan estimasi yang sistematis.
 
-Jelajahi desain lengkap dan pelajari lebih lanjut tentang proyek ini di [[Link Figma Anda] (Tambahkan link Figma Anda di sini)](https://www.figma.com/proto/lVhdA8v8ZryFdV85kppDs7/UBank-APP?node-id=1-2&t=6EAQY3SrkG1Z8THl-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2).
+Jelajahi desain lengkap dan pelajari lebih lanjut tentang proyek ini di https://www.figma.com/proto/lVhdA8v8ZryFdV85kppDs7/UBank-APP?node-id=1-2&t=6EAQY3SrkG1Z8THl-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2.
 
